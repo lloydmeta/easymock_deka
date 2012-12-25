@@ -1,0 +1,9 @@
+{
+      "routes": [
+        "/public/user/:as_id",
+        "/token",
+        "/graph/me/photos",
+        "/graph/:photo_id",
+        "/graph/me/picture"
+      ]
+}

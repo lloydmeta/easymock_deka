@@ -1,0 +1,4 @@
+{
+  "id": "#{photo_id}",
+  "url": "http://fakeameba.com/images/fake/#{photo_id}aa12345"
+}
